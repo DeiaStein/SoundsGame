@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundsGame.lib", "SoundsGame.lib\SoundsGame.lib.csproj", "{D3DD4434-ED5E-4FFC-94EF-F1A91564A454}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundsGameConsole", "SoundsGameConsole\SoundsGameConsole.csproj", "{F626CC36-7678-4DBE-8757-6FA0CDC86155}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DA4806E1-D4EC-4287-ABCF-4590C17CE12B}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3DD4434-ED5E-4FFC-94EF-F1A91564A454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3DD4434-ED5E-4FFC-94EF-F1A91564A454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3DD4434-ED5E-4FFC-94EF-F1A91564A454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3DD4434-ED5E-4FFC-94EF-F1A91564A454}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F626CC36-7678-4DBE-8757-6FA0CDC86155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F626CC36-7678-4DBE-8757-6FA0CDC86155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F626CC36-7678-4DBE-8757-6FA0CDC86155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F626CC36-7678-4DBE-8757-6FA0CDC86155}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {547D9042-BF76-4393-A867-F004C0AABE76}
+	EndGlobalSection
+EndGlobal
